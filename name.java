@@ -1,1 +1,2 @@
 as
+star pattern printing 
